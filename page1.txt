@@ -4,4 +4,10 @@ Dad is here
 
 Sacha is little
 
+<<<<<<< HEAD
 Mom cool
+=======
+Saskia yoyo
+
+Nana also cool
+>>>>>>> dev
